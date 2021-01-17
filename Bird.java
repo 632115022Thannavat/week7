@@ -1,3 +1,4 @@
+//thanavat voloshin 632115022
 public class Bird extends Pet{
     public Bird(String Name,String Species,String Color,int Age){
         this.Name = Name;
@@ -9,6 +10,7 @@ public class Bird extends Pet{
         System.out.println("Speak-professor ball so handsom");
     }
     public void Country(){
+       System.out.println("Live in "+Country);
        if(Country == "maxico"){
            System.out.println("Check country -maxico: true");
        }else{

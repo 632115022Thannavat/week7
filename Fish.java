@@ -1,3 +1,4 @@
+//thanavat voloshin 632115022
 public class Fish extends Pet{
     public Fish(String Name,String Species,String Color,int Age){
         this.Name = Name;

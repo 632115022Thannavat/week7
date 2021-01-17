@@ -1,4 +1,4 @@
-
+//thanavat voloshin 632115022
 public class Pet{
     String kind,Name,Species,Color,size,hair,water,swim,Country,fly;
     int Age;
